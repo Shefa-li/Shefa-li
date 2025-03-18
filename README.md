@@ -1,4 +1,4 @@
-# <img src="[[URL_TO_YOUR_HEADER_IMAGE](https://za.pinterest.com/pin/157133474493784394/)]" alt="Code Art" width="600">
+# <img src="[[https://za.pinterest.com/pin/157133474493784394]]" alt="Code Art" width="600">
 
 ## 👋 Hello, I'm Shefali
 
