@@ -6,12 +6,12 @@
 ## 🚀 About Me
 
 - 📍 Mumbai, Maharashtra
--    Using Angular and sprinkling magic ✨ on user interfaces.
--🌱 Currently Diving into open-source: Aiming to contribute to projects that enhance my ecosystem.
+- 🎨 Using Angular and sprinkling magic ✨ on user interfaces.
+- 🌱 Currently Diving into open-source: Aiming to contribute to projects that enhance my ecosystem.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Angular, React, JavaScript (ES6+), TypeScript, AG-Grid, Ant Design Components, HTML5 Canvas API
+- **Frontend:** Angular, ⚛️ React,📜JavaScript (ES6+), TypeScript, AG-Grid, Ant Design Components, HTML5 Canvas API
 - **Backend (a little 😉):** Java, Spring Boot, SQL, PL/SQL
 - **Tools:** GitLab, Figma, Postman, Jira, Confluence, Grafana Faro
 - **Agile:** Sprinting 🏃 towards collaborative success.
