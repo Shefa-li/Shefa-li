@@ -20,9 +20,10 @@
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui/)
 
 
-### 🧪 Backend (just a bit 😉)
+### 🧪 Backend ( a bit 😉)
 [![Java](https://img.shields.io/badge/☕_java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Spring-Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://www.spring-boot.com)
+[![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodedotjs)
 [![SQL](https://img.shields.io/badge/🐬_SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 [![PL/SQL](https://img.shields.io/badge/🔍_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
 
@@ -38,7 +39,7 @@
 ## 📜 My Scrolls & Incantations
 [![dev.to](https://img.shields.io/badge/✍️_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shefalii)
 [![Medium](https://img.shields.io/badge/📚_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shefalii)
-<p width="50" height="50">[![Quira](https://avatars.githubusercontent.com/u/53082289?s=200&v=4)](https://quira.sh/user/Shefalidesai)</p>
+[![Quira] <img src="https://avatars.githubusercontent.com/u/53082289?s=200&v=4" alt="Quira" style="width: 50px; height: 50px;">
 
 
 *If my code works the first time, I suspect witchcraft! ✨*
