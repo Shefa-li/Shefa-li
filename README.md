@@ -1,12 +1,12 @@
 # <p align="center"> [<img src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif" alt="Code Art" width="900">](https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif) </p>
 
 ## 👋 Hello, I'm Shefali 🧑‍💻
-✨ Frontend Dev in Mumbai, India 🇮🇳 ✨
+✨ Frontend Dev in Mumbai, India 
 
-## 🎭 About This Code Witch
+## 🎭 About
 - 📧 Summon me via [Magic Email Spell](mailto:desaishefali507@gmail.com)
 - 🧙‍♀️ Fluent in Angular, JavaScript and TypeScript 
-- 🌱 Currently taming the wild Webpack beast and sprinkling open-source fairy dust
+- 🌱 Currently sprinkling open-source fairy dust
 
 ## 🚀 My Superpowers & Magical Tools
 
