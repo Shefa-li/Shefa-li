@@ -3,10 +3,8 @@
 ## 👋 Hello, I'm Shefali 🧑‍💻
 ✨ Frontend Dev in Mumbai, India 
 
-## 🎭 About
-- 📧 Summon me via [Magic Email Spell](mailto:desaishefali507@gmail.com)
-- 🧙‍♀️ Fluent in Angular, JavaScript and TypeScript 
-- 🌱 Currently sprinkling open-source fairy dust
+## 🎭 About 
+- 🌱 Currently looking to expand my skills and contribute to open-source 
 
 ## 🚀 My Superpowers & Magical Tools
 
