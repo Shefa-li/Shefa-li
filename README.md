@@ -41,7 +41,7 @@
 [![Medium](https://img.shields.io/badge/📚_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shefalii)
 <a href="https://quira.sh/user/Shefalidesai">
   <img src="https://avatars.githubusercontent.com/u/53082289?s=200&v=4" alt="Quira" width="20" height="20">
-</a>
+Quira </a>
 
 
 *If my code works the first time, I suspect witchcraft! ✨*
