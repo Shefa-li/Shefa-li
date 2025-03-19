@@ -1,18 +1,16 @@
 # <p align="center"> [<img src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif" alt="Code Art" width="900">](https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif) </p>
 
 ## 👋 Hello, I'm Shefali 🧑‍💻
-✨ Frontend Magician in Mumbai, India 🇮🇳 ✨
-Turning coffee ☕ into beautiful code since forever! Building scalable SPAs with Angular, crafting pixel-perfect UIs, and occasionally breaking the build (oops!) 🔥
+✨ Frontend Dev in Mumbai, India 🇮🇳 ✨
 
 ## 🎭 About This Code Witch
-- 📧 Summon me via [Magic Email Spell](mailto:your-email@gmail.com)
-- 🧙‍♀️ Fluent in JavaScript, TypeScript and *Sarcasm*
+- 📧 Summon me via [Magic Email Spell](mailto:desaishefali507@gmail.com)
+- 🧙‍♀️ Fluent in Angular, JavaScript and TypeScript 
 - 🌱 Currently taming the wild Webpack beast and sprinkling open-source fairy dust
-- 🎮 When not coding: Gaming, brewing potions (coffee), or talking to my rubber duck debugger
 
 ## 🚀 My Superpowers & Magical Tools
 
-### 🔮 Frontend Sorcery
+### 🔮 Frontend 
 [![Angular](https://img.shields.io/badge/⚔️_angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![React](https://img.shields.io/badge/⚛️_react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/🔥_javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
@@ -22,9 +20,12 @@ Turning coffee ☕ into beautiful code since forever! Building scalable SPAs wit
 [![Webpack](https://img.shields.io/badge/📦_Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/)
 [![AG Grid](https://img.shields.io/badge/📊_AG_Grid-66B347?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCw4SDVWNkgxMFY4TTEwLDEwSDVWMTJIMTBWMTBNMTAsMTRINVYxNkgxMFYxNE0xNSwxNEgxNFYxNkgxNVYxNE0xNSwxMEgxNFYxMkgxNVYxME0xNSw2SDE0VjhIMTVWNk0yMiw2VjIwQTIsMiAwIDAsMSAyMCwyMkg0QTIsMiAwIDAsMSAyLDIwVjZBMiwyIDAgMCwxIDQsNEgyMEEyLDIgMCAwLDEgMjIsNk0yMCw2SDE0VjhIMjBWNk0yMCwxMEgxOFYxMkgyMFYxME0yMCwxNEgxOFYxNkgyMFYxNFoiLz48L3N2Zz4=&logoColor=white)](https://www.ag-grid.com/)
 [![Ant Design](https://img.shields.io/badge/🐜_Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)](https://ant.design/)
+[![Material UI] (https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui/)
 
-### 🧪 Backend Alchemy (just a bit 😉)
+
+### 🧪 Backend (just a bit 😉)
 [![Java](https://img.shields.io/badge/☕_java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Spring-Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://www.spring-boot.com)
 [![SQL](https://img.shields.io/badge/🐬_SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 [![PL/SQL](https://img.shields.io/badge/🔍_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
 
@@ -41,18 +42,6 @@ Turning coffee ☕ into beautiful code since forever! Building scalable SPAs wit
 [![dev.to](https://img.shields.io/badge/✍️_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shefalii)
 [![Medium](https://img.shields.io/badge/📚_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shefalii)
 
-## 🔮 Send Me a Raven!
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](Your_GitHub_URL)
-[![Portfolio](https://img.shields.io/badge/🏆_Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](Your_Portfolio_URL)
-[![Discord](https://img.shields.io/badge/🎮_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](Your_Discord_URL)
-
-## 🎵 My Coding Playlist
-- 🎸 "While My Algorithm Gently Weeps"
-- 🥁 "Sweet Code O' Mine"
-- 🎹 "Bohemian Stacktrace"
-- 🎤 "Another Bug Bites the Dust"
 
 *If my code works the first time, I suspect witchcraft! ✨*
 
-Thanks for stopping by! 🚀
