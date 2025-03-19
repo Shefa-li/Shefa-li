@@ -1,4 +1,4 @@
-# [<img src="https://za.pinterest.com/pin/157133474493784394" alt="Code Art" width="600">](https://za.pinterest.com/pin/157133474493784394)
+# [<img src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif" alt="Code Art" width="600">](https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif)
 
 ## 👋 Hello, I'm Shefali
 
