@@ -1,4 +1,4 @@
-# <p align="center"> [<img src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif" alt="Code Art" width="900">](https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif) </p>
+# <p align="center"> [<img src="https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif" alt="Code Art" width="600">](https://i.pinimg.com/originals/70/84/c6/7084c682f10716fcaf0469b550a92b6a.gif) </p>
 
 ## 👋 Hello, I'm Shefali 🧑‍💻
 ✨ Frontend Dev in Mumbai, India 
