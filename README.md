@@ -20,7 +20,7 @@
 [![Webpack](https://img.shields.io/badge/📦_Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/)
 [![AG Grid](https://img.shields.io/badge/📊_AG_Grid-66B347?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCw4SDVWNkgxMFY4TTEwLDEwSDVWMTJIMTBWMTBNMTAsMTRINVYxNkgxMFYxNE0xNSwxNEgxNFYxNkgxNVYxNE0xNSwxMEgxNFYxMkgxNVYxME0xNSw2SDE0VjhIMTVWNk0yMiw2VjIwQTIsMiAwIDAsMSAyMCwyMkg0QTIsMiAwIDAsMSAyLDIwVjZBMiwyIDAgMCwxIDQsNEgyMEEyLDIgMCAwLDEgMjIsNk0yMCw2SDE0VjhIMjBWNk0yMCwxMEgxOFYxMkgyMFYxME0yMCwxNEgxOFYxNkgyMFYxNFoiLz48L3N2Zz4=&logoColor=white)](https://www.ag-grid.com/)
 [![Ant Design](https://img.shields.io/badge/🐜_Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)](https://ant.design/)
-[![Material UI] (https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui/)
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui/)
 
 
 ### 🧪 Backend (just a bit 😉)
