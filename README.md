@@ -1,4 +1,4 @@
-# <img src="[[https://za.pinterest.com/pin/157133474493784394]]" alt="Code Art" width="600">
+# [<img src="https://za.pinterest.com/pin/157133474493784394" alt="Code Art" width="600">](https://za.pinterest.com/pin/157133474493784394)
 
 ## 👋 Hello, I'm Shefali
 
@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 📍 Mumbai, Maharashtra
-- A Dev in Mumbai, India 🇮🇳 using Angular and sprinkling magic ✨ on user interfaces.
+-    Using Angular and sprinkling magic ✨ on user interfaces.
 -🌱 Currently Diving into open-source: Aiming to contribute to projects that enhance my ecosystem.
 
 ## 🛠️ Tech Stack
