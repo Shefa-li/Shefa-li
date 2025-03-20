@@ -37,11 +37,10 @@
 [![Grafana](https://img.shields.io/badge/📈_Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](https://grafana.com/)
 
 ## 📜 My Scrolls & Incantations
-[![dev.to](https://img.shields.io/badge/✍️_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shefalii)
-[![Medium](https://img.shields.io/badge/📚_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shefalii)
-<div style="display:flex"><a href="https://quira.sh/user/Shefalidesai">
-  <img src="https://avatars.githubusercontent.com/u/53082289?s=200&v=4" alt="Quira" width="5" height="5">
-Quira </a></div>
+[![dev.to](https://img.shields.io/badge/✍️_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shefalii) 
+[![Medium](https://img.shields.io/badge/📚_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shefalii) 
+[![Quira](https://img.shields.io/badge/Quira-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://quira.sh/user/Shefalidesai)
+
 
 
 *If my code works the first time, I suspect witchcraft! ✨*
