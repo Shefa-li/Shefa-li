@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Shefali 🧑‍💻
 - ✨ Frontend Dev in Mumbai, India 
-- Building scalable SPAs with Angular, crafting pixel-perfect UIs, and occasionally breaking the build (oops!) 🔥
+- Building scalable SPAs with Angular, crafting UIs, and occasionally breaking the build (oops!) 🔥
 - 🌱 Currently looking to expand my skills and contribute to open-source 
 
 ## 🚀 My Superpowers & Magical Tools
@@ -40,7 +40,7 @@
 [![dev.to](https://img.shields.io/badge/✍️_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shefalii)
 [![Medium](https://img.shields.io/badge/📚_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shefalii)
 <div style="display:flex"><a href="https://quira.sh/user/Shefalidesai">
-  <img src="https://avatars.githubusercontent.com/u/53082289?s=200&v=4" alt="Quira" width="20" height="20">
+  <img src="https://avatars.githubusercontent.com/u/53082289?s=200&v=4" alt="Quira" width="5" height="5">
 Quira </a></div>
 
 
