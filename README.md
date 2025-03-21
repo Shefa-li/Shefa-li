@@ -42,7 +42,7 @@
 [![Quira](https://img.shields.io/badge/Quira-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://quira.sh/user/Shefalidesai)
 
 
-# My old account - [![GitHub](https://img.shields.io/badge/Quira-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shefalidesai)
+- My old account - [![GitHub](https://img.shields.io/badge/Quira-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shefalidesai)
 
 
 *If my code works the first time, I suspect witchcraft! ✨*
