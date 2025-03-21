@@ -40,7 +40,9 @@
 [![dev.to](https://img.shields.io/badge/✍️_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shefalii) 
 [![Medium](https://img.shields.io/badge/📚_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Shefalii) 
 [![Quira](https://img.shields.io/badge/Quira-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://quira.sh/user/Shefalidesai)
-My old account - [![GitHub](https://img.shields.io/badge/Quira-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shefalidesai)
+
+
+# My old account - [![GitHub](https://img.shields.io/badge/Quira-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shefalidesai)
 
 
 *If my code works the first time, I suspect witchcraft! ✨*
