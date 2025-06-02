@@ -5,7 +5,7 @@
 - Building scalable SPAs with Angular, crafting UIs, and occasionally breaking the build (oops!) 🔥
 - 🌱 Currently looking to expand my skills and contribute to open-source 
 
-## 🚀 My Superpowers & Magical Tools
+## 🚀 My Superpowers 
 
 ### 🔮 Frontend 
 [![Angular](https://img.shields.io/badge/⚔️_angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
@@ -27,7 +27,7 @@
 [![SQL](https://img.shields.io/badge/🐬_SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 [![PL/SQL](https://img.shields.io/badge/🔍_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
 
-### 🧰 My Enchanted Toolbox
+### 🧰 Tools
 [![GitLab](https://img.shields.io/badge/🦊_gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Git](https://img.shields.io/badge/🌳_git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Figma](https://img.shields.io/badge/🎨_figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
