@@ -1,5 +1,5 @@
 
-## 👋 Hello, I'm Shefali 🧑‍💻
+## 👋 Hello, I'm Shefali
 - ✨ Full-Stack Dev in Mumbai, India 
 - Building scalable SPAs with Angular, crafting UIs.
 - 🌱 Currently looking to expand my skills and contribute to open-source 
